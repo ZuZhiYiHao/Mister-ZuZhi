@@ -3,9 +3,9 @@ package com.text;
 public class Text {
 
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
-		System.out.println("¿ÉÒÔÁË£¿¸üĞÂÒ»ÏÂ£¡£¡¡£¡£¡£cbvbcv");
-		System.out.println("ÎªÊ²Ã´£¡");
+		// TODO è‡ªåŠ¨ç”Ÿæˆçš„æ–¹æ³•å­˜æ ¹
+		System.out.println("å¯ä»¥äº†ï¼Ÿæ›´æ–°ä¸€ä¸‹ï¼ï¼ã€‚ã€‚ã€‚cbvbcv");
+		System.out.println("ä¸ºä»€ä¹ˆ!ï¼");
 	}
 
 }
